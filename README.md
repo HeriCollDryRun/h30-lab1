@@ -65,7 +65,7 @@ The final page looks like the following screenshot:
 
 **Part B – Responsive Web Design**
 
-1. Open the folder **\\420-H30\\Labs\\YourFirstInitialYourLastName_H30L01\\partB** that you created above.
+1. Open the folder **\\H30L01_files\\partB** that you created above.
 2. Copy the files and folders from partA to the partB folder (badIdea.html and the two folders: images and styles). Note: There is already an images folder so merge the two folders. **Make sure you are editing the correct file.**
 3. You are going to have to copy some things around in the CSS file to accommodate mobile first design. First add a media query AT THE BOTTOM of your CSS add a media query for all devices with a minimum width of 768px.
     1. Copy all the rules you created in the part A to this section to this query section.
@@ -113,7 +113,7 @@ NOTE: **COPY** the rules, but do not delete them from the top section. You will 
 
 **Part C – JavaScript Review**
 
-1. Open the folder **\\420-H30\\Labs\\YourFirstInitialYourLastName_H30L01\\partC** that you created during the Lab Setup step above. It contains a file called partc.html. This is the file that you must run for this section. You can NOT make any changes to this file. This file reads in two JavaScript files. The file partc.js is the test file and cannot be changed. You will be creating the file Card.js; make sure it is in the correct subfolder.
+1. Open the folder **\\H30L01_files\\partC** that you created during the Lab Setup step above. It contains a file called partc.html. This is the file that you must run for this section. You can NOT make any changes to this file. This file reads in two JavaScript files. The file partc.js is the test file and cannot be changed. You will be creating the file Card.js; make sure it is in the correct subfolder.
 2. Create a file (in the appropriate location) called Card.js (note the case of the file name). Add the following:
     1. A ‘const’ant array called SUITS which contains the strings Spades, Clubs, Diamonds and Hearts IN THAT ORDER.
     2. A ‘const’ant array called RANKS which contains: “Ace”, 2, 3, 4, 5, 6, 7, 8, 9, 10, “Jack”, “Queen”, “King” (a mix of strings and numbers) IN THAT ORDER.
