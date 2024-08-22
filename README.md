@@ -59,6 +59,7 @@ To do:
     2. Use classes and ids as you see fit.
 
 The final page looks like the following screenshot:
+
 ![Screenshot for completed Part A](images/h30_lab1_Picture1.png)
 
 **Part B – Responsive Web Design**
