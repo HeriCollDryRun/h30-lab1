@@ -140,7 +140,7 @@ When you have completed the lab exercise run the following git commands in order
 ```
 git add .
 
-git commit -am “Completed lab 1”
+git commit -am "Completed lab 1"
 
 git push
 ```
